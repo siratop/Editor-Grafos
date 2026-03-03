@@ -52,3 +52,8 @@ Combina la solidez de la Programación Orientada a Objetos en **Java Swing**, un
 1. **Clonar el repositorio:**
 ```bash
 git clone [https://github.com/JesusShady/Editor-Grafos.git](https://github.com/JesusShady/Editor-Grafos.git)
+
+👨‍💻 Autores
+Nombre: Francisco Fonseca, Rol; Desarrollo y Algoritmia   GitHub: @SiraTop
+
+                                                                                      Proyecto realizado para la UNEG - Semestre IV - Técnicas de Programación 3
