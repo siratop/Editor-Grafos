@@ -46,6 +46,8 @@ Combina la solidez de la Programación Orientada a Objetos en **Java Swing**, un
 | **Persistencia**| Java IO (Serialización) | Exportación de matrices y nodos en archivos locales binarios. |
 
 ---
+👨‍💻 Autores
+Nombre: Francisco Fonseca, Rol: Desarrollo y Algoritmia,   GitHub: @SiraTop
 
 ## ⚡ Instalación y Uso
 
@@ -53,7 +55,3 @@ Combina la solidez de la Programación Orientada a Objetos en **Java Swing**, un
 ```bash
 git clone [https://github.com/JesusShady/Editor-Grafos.git](https://github.com/JesusShady/Editor-Grafos.git)
 
-👨‍💻 Autores
-Nombre: Francisco Fonseca, Rol; Desarrollo y Algoritmia   GitHub: @SiraTop
-
-                                                                                      Proyecto realizado para la UNEG - Semestre IV - Técnicas de Programación 3
